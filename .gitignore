@@ -1,0 +1,13 @@
+backend/fastapienv/
+backend/__pycache__/
+backend/.idea/
+backend/rating_model.joblib
+backend/category_predict_model
+
+my-app/node_modules/
+my-app/*.d.ts
+*.d.ts
+.vscode
+.DS_Store
+.idea/
+__pycache__/
